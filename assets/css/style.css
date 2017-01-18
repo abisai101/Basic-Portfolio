@@ -1,0 +1,99 @@
+
+
+footer {
+  
+  padding: 19px;
+  background: #666666;
+  color: white;
+  text-align: center;
+  clear: both;
+  position: fixed;
+  bottom: 0;
+  width: 100%;
+ 
+}
+
+header{
+	
+	height: 60px;
+	color:#ffffff;
+	background-color: white;
+  color: white;
+
+
+}
+.verticalLine {
+  border-left: thin solid #dddddd;
+}
+
+.main-wrap {
+   width: 960px;
+   margin: 0 auto;
+
+
+}
+
+h4
+{
+  text-align: center;
+  margin: 20px;
+  height: 30px;
+
+}
+ nav
+ {
+float: right;
+padding: 20px 0;
+
+
+}
+
+
+body{
+  background-color: beige;
+  background: url("../image/cork-wallet.png");
+}
+
+.text-wrap{
+  
+  float:left;
+  margin: 10px;
+
+}
+
+.name{
+  display: inline-block;
+  height: 20px;
+  background-color: #4aaaa5;
+  padding: 20px;
+  font-size: 150%
+  font-family
+
+}
+
+a {
+padding: 0 10px;
+
+}
+.contact{
+  width: 230px;
+  height: 175px;
+  background-color: white;
+  text-align: right;
+  float: right;
+
+}
+.about-me{
+  width: 650px;
+
+}
+.box{
+  background-color: white;
+}
+h1{
+  color: #4aaaa5;
+  padding: 19px;
+  font-size: 200%;
+  font-family: serif;
+
+}
